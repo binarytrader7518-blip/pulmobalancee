@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200"><title>BioPerine (black pepper) illustration</title>
+<defs><radialGradient id="pp" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#5B4A3E"/><stop offset="1" stop-color="#1F1915"/></radialGradient></defs>
+<circle cx="80" cy="120" r="22" fill="url(#pp)"/><circle cx="72.3" cy="112.3" r="5.5" fill="#fff" opacity=".18"/><circle cx="120" cy="118" r="24" fill="url(#pp)"/><circle cx="111.6" cy="109.6" r="6.0" fill="#fff" opacity=".18"/><circle cx="100" cy="150" r="23" fill="url(#pp)"/><circle cx="92.0" cy="141.9" r="5.8" fill="#fff" opacity=".18"/><circle cx="64" cy="156" r="18" fill="url(#pp)"/><circle cx="57.7" cy="149.7" r="4.5" fill="#fff" opacity=".18"/><circle cx="138" cy="156" r="19" fill="url(#pp)"/><circle cx="131.3" cy="149.3" r="4.8" fill="#fff" opacity=".18"/><circle cx="100" cy="90" r="18" fill="url(#pp)"/><circle cx="93.7" cy="83.7" r="4.5" fill="#fff" opacity=".18"/>
+<path d="M100 72 C104 50 118 36 138 30" stroke="#3E8648" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M126 34 C138 20 158 20 168 26 C156 40 140 42 126 34Z" fill="#4E9A57"/>
+</svg>

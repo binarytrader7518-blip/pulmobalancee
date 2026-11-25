@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200"><title>Quercetin illustration</title>
+<g fill="none" stroke="#0B7A9A" stroke-width="5" stroke-linejoin="round">
+<polygon points="60,70 82,57 104,70 104,96 82,109 60,96"/>
+<polygon points="104,96 126,83 148,96 148,122 126,135 104,122"/>
+<polygon points="104,70 126,57 148,70"/></g>
+<g fill="#2BA6A0"><circle cx="60" cy="70" r="7"/><circle cx="148" cy="122" r="7"/><circle cx="126" cy="57" r="6"/><circle cx="82" cy="109" r="6"/></g>
+<path d="M150 150 C150 120 176 112 186 110 C186 138 172 156 150 150Z" fill="#7CC17A"/>
+<path d="M44 150 C48 132 64 126 74 126 C72 144 60 154 44 150Z" fill="#F2A93B" opacity=".85"/>
+</svg>

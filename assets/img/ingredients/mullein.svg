@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200"><title>Mullein illustration</title>
+<defs><linearGradient id="mg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9CCB7A"/><stop offset="1" stop-color="#5E9A4B"/></linearGradient></defs>
+<path d="M100 188 C98 140 101 90 100 26" stroke="#5E8F45" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M100 170 C60 168 34 150 26 122 C58 120 86 136 100 160Z" fill="url(#mg)"/>
+<path d="M100 166 C140 166 166 146 174 118 C142 118 114 134 100 156Z" fill="url(#mg)"/>
+<path d="M100 132 C72 128 56 112 52 92 C76 94 92 106 100 124Z" fill="url(#mg)" opacity=".9"/>
+<path d="M100 128 C128 124 144 108 148 88 C124 90 108 102 100 120Z" fill="url(#mg)" opacity=".9"/>
+<circle cx="91" cy="30" r="7" fill="#F6C945" stroke="#E0A92A" stroke-width="1.5"/><circle cx="109" cy="38" r="7" fill="#F6C945" stroke="#E0A92A" stroke-width="1.5"/><circle cx="92" cy="48" r="8" fill="#F6C945" stroke="#E0A92A" stroke-width="1.5"/><circle cx="109" cy="56" r="8" fill="#F6C945" stroke="#E0A92A" stroke-width="1.5"/><circle cx="91" cy="66" r="8" fill="#F6C945" stroke="#E0A92A" stroke-width="1.5"/><circle cx="108" cy="74" r="7" fill="#F6C945" stroke="#E0A92A" stroke-width="1.5"/><circle cx="94" cy="84" r="6" fill="#F6C945" stroke="#E0A92A" stroke-width="1.5"/><circle cx="107" cy="92" r="6" fill="#F6C945" stroke="#E0A92A" stroke-width="1.5"/><circle cx="100" cy="22" r="6" fill="#F6C945" stroke="#E0A92A" stroke-width="1.5"/></svg>
