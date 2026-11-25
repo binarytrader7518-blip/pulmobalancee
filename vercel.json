@@ -1,5 +1,6 @@
 {
   "cleanUrls": false,
+  "trailingSlash": false,
   "rewrites": [
     {
       "source": "/order",
@@ -10,17 +11,17 @@
     {
       "source": "/go/2",
       "destination": "https://lungreborn.com/b/order-now.php?aff_id=9230",
-      "permanent": false
+      "statusCode": 302
     },
     {
       "source": "/go/3",
       "destination": "https://lungreborn.com/b/order-now.php?aff_id=9230",
-      "permanent": false
+      "statusCode": 302
     },
     {
       "source": "/go/6",
       "destination": "https://lungreborn.com/b/order-now.php?aff_id=9230",
-      "permanent": false
+      "statusCode": 302
     }
   ],
   "headers": [
@@ -28,12 +29,12 @@
       "source": "/go/(.*)",
       "headers": [
         {
-          "key": "Cache-Control",
-          "value": "no-store"
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
         },
         {
-          "key": "X-Robots-Tag",
-          "value": "noindex"
+          "key": "Cache-Control",
+          "value": "no-store"
         }
       ]
     },
@@ -47,11 +48,20 @@
       ]
     },
     {
+      "source": "/order.html",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
       "source": "/assets/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
+          "value": "public, max-age=604800"
         }
       ]
     },
@@ -61,6 +71,19 @@
         {
           "key": "Content-Type",
           "value": "text/plain; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
         }
       ]
     }
