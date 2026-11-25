@@ -7,8 +7,8 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 ## Summary
 
 - Pages audited: 29
-- Total `<img>` elements checked: 273
-- Images with descriptive alt text: 273
+- Total `<img>` elements checked: 282
+- Images with descriptive alt text: 282
 - Decorative images with `alt=""`: 0
 - Missing / generic alt found on final scan: 0
 - Images corrected during audit: 27 (sticky-bar thumbnail, one per page)
@@ -49,11 +49,12 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 |---|---|
 | `/assets/img/pulmo-balance-two-bottles-lung-support-banner.webp` | Two Pulmo Balance bottles with Daily Lung Support highlights |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
-| `/assets/img/pulmo-balance-studio-bottle.webp` | Pulmo Balance bottle under green studio lighting with nettle and pine illustrations |
+| `/assets/img/pulmo-balance-studio-bottle.webp` | Pulmo Balance Daily Lung Support bottle beside green leaves and white capsules |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
 | `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle pack with bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
 | `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
 | `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
@@ -62,11 +63,12 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/blog-breathing-exercises.webp` | Line drawing of lungs over flowing blue air currents |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/blog-breathing-exercises.webp` | Two Pulmo Balance Daily Lung Support bottles on a podium with green leaves |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
-| `/assets/img/blog-mullein-traditional-use.webp` | Illustrated mullein flower spike with yellow blossoms and soft leaves |
-| `/assets/img/blog-indoor-air-quality.webp` | Bright window with fresh air flowing past a green nettle plant |
-| `/assets/img/blog-seasonal-airway-comfort.webp` | Stinging nettle leaves and a red onion with floating pollen grains |
+| `/assets/img/blog-mullein-traditional-use.webp` | Pulmo Balance bottle on a stone coaster beside green leaves, for the mullein article |
+| `/assets/img/blog-indoor-air-quality.webp` | Pulmo Balance bottle in a bright room with houseplants and fresh light |
+| `/assets/img/blog-seasonal-airway-comfort.webp` | Pulmo Balance bottle on a marble counter in soft seasonal daylight |
 | `https://the-quantum-wave-original.com/assets/images/the-quantum-wave-original.jpg` | The Quantum Wave product image |
 | `https://neuralreviven.com/assets/img/neural-revive-tablet-phone.webp` | Neural Revive product image |
 | `https://en-dentabiome.vercel.app/images/dentabiome-bottle.webp` | DentaBiome product image |
@@ -78,12 +80,12 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | Image | Final alt text |
 |---|---|
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
-| `/assets/img/blog-mullein-traditional-use.webp` | Illustrated mullein flower spike with yellow blossoms and soft leaves |
-| `/assets/img/blog-breathing-exercises.webp` | Line drawing of lungs over flowing blue air currents |
-| `/assets/img/blog-indoor-air-quality.webp` | Bright window with fresh air flowing past a green nettle plant |
-| `/assets/img/blog-seasonal-airway-comfort.webp` | Stinging nettle leaves and a red onion with floating pollen grains |
-| `/assets/img/blog-antioxidants-quercetin-pine-bark.webp` | Illustrated maritime pine cone on bark beside a red onion |
-| `/assets/img/blog-sleep-and-breathing.webp` | Night sky with a crescent moon over calm blue waves |
+| `/assets/img/blog-mullein-traditional-use.webp` | Pulmo Balance bottle on a stone coaster beside green leaves, for the mullein article |
+| `/assets/img/blog-breathing-exercises.webp` | Two Pulmo Balance Daily Lung Support bottles on a podium with green leaves |
+| `/assets/img/blog-indoor-air-quality.webp` | Pulmo Balance bottle in a bright room with houseplants and fresh light |
+| `/assets/img/blog-seasonal-airway-comfort.webp` | Pulmo Balance bottle on a marble counter in soft seasonal daylight |
+| `/assets/img/blog-antioxidants-quercetin-pine-bark.webp` | Pulmo Balance bottle with green leaves and capsules on a stone coaster |
+| `/assets/img/blog-sleep-and-breathing.webp` | Pulmo Balance bottle in calm green evening light beside a potted plant |
 | `https://lymphtoneic.com/assets/img/lymph-tonic-bottle.webp` | Lymph Tonic product image |
 | `https://okinawantonic.com/assets/img/okinawa-flat-belly-tonic-jar.webp` | Okinawa Flat Belly Tonic product image |
 | `https://neuraserge.com/assets/img/neuro-serge-bottle.webp` | Neuro Serge product image |
@@ -115,11 +117,12 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/blog-indoor-air-quality.webp` | Bright window with fresh air flowing past a green nettle plant |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/blog-indoor-air-quality.webp` | Pulmo Balance bottle in a bright room with houseplants and fresh light |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
-| `/assets/img/blog-mullein-traditional-use.webp` | Illustrated mullein flower spike with yellow blossoms and soft leaves |
-| `/assets/img/blog-breathing-exercises.webp` | Line drawing of lungs over flowing blue air currents |
-| `/assets/img/blog-seasonal-airway-comfort.webp` | Stinging nettle leaves and a red onion with floating pollen grains |
+| `/assets/img/blog-mullein-traditional-use.webp` | Pulmo Balance bottle on a stone coaster beside green leaves, for the mullein article |
+| `/assets/img/blog-breathing-exercises.webp` | Two Pulmo Balance Daily Lung Support bottles on a podium with green leaves |
+| `/assets/img/blog-seasonal-airway-comfort.webp` | Pulmo Balance bottle on a marble counter in soft seasonal daylight |
 | `https://lymphtoneic.com/assets/img/lymph-tonic-bottle.webp` | Lymph Tonic product image |
 | `https://the-last-battery-original.com/assets/img/last-battery-complete-system.webp` | The Last Battery product image |
 | `https://liivarix.vercel.app/assets/img/livarix-bottle.webp` | Livarix product image |
@@ -130,11 +133,12 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/blog-mullein-traditional-use.webp` | Illustrated mullein flower spike with yellow blossoms and soft leaves |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/blog-mullein-traditional-use.webp` | Pulmo Balance bottle on a stone coaster beside green leaves, for the mullein article |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
-| `/assets/img/blog-breathing-exercises.webp` | Line drawing of lungs over flowing blue air currents |
-| `/assets/img/blog-indoor-air-quality.webp` | Bright window with fresh air flowing past a green nettle plant |
-| `/assets/img/blog-seasonal-airway-comfort.webp` | Stinging nettle leaves and a red onion with floating pollen grains |
+| `/assets/img/blog-breathing-exercises.webp` | Two Pulmo Balance Daily Lung Support bottles on a podium with green leaves |
+| `/assets/img/blog-indoor-air-quality.webp` | Pulmo Balance bottle in a bright room with houseplants and fresh light |
+| `/assets/img/blog-seasonal-airway-comfort.webp` | Pulmo Balance bottle on a marble counter in soft seasonal daylight |
 | `https://lymphtoneic.com/assets/img/lymph-tonic-bottle.webp` | Lymph Tonic product image |
 | `https://en-dentabiome.vercel.app/images/dentabiome-bottle.webp` | DentaBiome product image |
 | `https://en-gutsave.vercel.app/img/gut-save-bottle.webp` | Gut Save product image |
@@ -145,11 +149,12 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/blog-antioxidants-quercetin-pine-bark.webp` | Illustrated maritime pine cone on bark beside a red onion |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/blog-antioxidants-quercetin-pine-bark.webp` | Pulmo Balance bottle with green leaves and capsules on a stone coaster |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
-| `/assets/img/blog-mullein-traditional-use.webp` | Illustrated mullein flower spike with yellow blossoms and soft leaves |
-| `/assets/img/blog-breathing-exercises.webp` | Line drawing of lungs over flowing blue air currents |
-| `/assets/img/blog-indoor-air-quality.webp` | Bright window with fresh air flowing past a green nettle plant |
+| `/assets/img/blog-mullein-traditional-use.webp` | Pulmo Balance bottle on a stone coaster beside green leaves, for the mullein article |
+| `/assets/img/blog-breathing-exercises.webp` | Two Pulmo Balance Daily Lung Support bottles on a podium with green leaves |
+| `/assets/img/blog-indoor-air-quality.webp` | Pulmo Balance bottle in a bright room with houseplants and fresh light |
 | `https://liivarix.vercel.app/assets/img/livarix-bottle.webp` | Livarix product image |
 | `https://en-colestzen.vercel.app/img/colestzen-bottle.webp` | ColestZen product image |
 | `https://okinawantonic.com/assets/img/okinawa-flat-belly-tonic-jar.webp` | Okinawa Flat Belly Tonic product image |
@@ -160,11 +165,12 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/blog-seasonal-airway-comfort.webp` | Stinging nettle leaves and a red onion with floating pollen grains |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/blog-seasonal-airway-comfort.webp` | Pulmo Balance bottle on a marble counter in soft seasonal daylight |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
-| `/assets/img/blog-mullein-traditional-use.webp` | Illustrated mullein flower spike with yellow blossoms and soft leaves |
-| `/assets/img/blog-breathing-exercises.webp` | Line drawing of lungs over flowing blue air currents |
-| `/assets/img/blog-indoor-air-quality.webp` | Bright window with fresh air flowing past a green nettle plant |
+| `/assets/img/blog-mullein-traditional-use.webp` | Pulmo Balance bottle on a stone coaster beside green leaves, for the mullein article |
+| `/assets/img/blog-breathing-exercises.webp` | Two Pulmo Balance Daily Lung Support bottles on a podium with green leaves |
+| `/assets/img/blog-indoor-air-quality.webp` | Pulmo Balance bottle in a bright room with houseplants and fresh light |
 | `https://lymphtoneic.com/assets/img/lymph-tonic-bottle.webp` | Lymph Tonic product image |
 | `https://en-gutsave.vercel.app/img/gut-save-bottle.webp` | Gut Save product image |
 | `https://okinawantonic.com/assets/img/okinawa-flat-belly-tonic-jar.webp` | Okinawa Flat Belly Tonic product image |
@@ -175,11 +181,12 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/blog-sleep-and-breathing.webp` | Night sky with a crescent moon over calm blue waves |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/blog-sleep-and-breathing.webp` | Pulmo Balance bottle in calm green evening light beside a potted plant |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
-| `/assets/img/blog-mullein-traditional-use.webp` | Illustrated mullein flower spike with yellow blossoms and soft leaves |
-| `/assets/img/blog-breathing-exercises.webp` | Line drawing of lungs over flowing blue air currents |
-| `/assets/img/blog-indoor-air-quality.webp` | Bright window with fresh air flowing past a green nettle plant |
+| `/assets/img/blog-mullein-traditional-use.webp` | Pulmo Balance bottle on a stone coaster beside green leaves, for the mullein article |
+| `/assets/img/blog-breathing-exercises.webp` | Two Pulmo Balance Daily Lung Support bottles on a podium with green leaves |
+| `/assets/img/blog-indoor-air-quality.webp` | Pulmo Balance bottle in a bright room with houseplants and fresh light |
 | `https://neuralreviven.com/assets/img/neural-revive-tablet-phone.webp` | Neural Revive product image |
 | `https://pinealgguardianx.com/img/pineal-guardian-x-bottle.webp` | Pineal Guardian X product image |
 | `https://shiftingvibration.org/assets/img/shifting-vibrations-audio-package.webp` | Shifting Vibrations product image |
@@ -211,7 +218,7 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/focus-airway-clarity.webp` | Pulmo Balance bottle with Mullein Extract and Bromelain Powder illustrations |
+| `/assets/img/focus-airway-clarity.webp` | Pulmo Balance bottle photo for the Airway Clarity & Mucus Balance focus area |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
@@ -223,7 +230,7 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/focus-antioxidant-defense.webp` | Pulmo Balance bottle with Maritime Pine Bark and Quercetin Dihydrate illustrations |
+| `/assets/img/focus-antioxidant-defense.webp` | Pulmo Balance bottle photo for the Antioxidant Defense & Circulation focus area |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
@@ -235,11 +242,11 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-bottle-with-ingredients.webp` | Pulmo Balance bottle with illustrations of mullein, nettle, pine bark, pineapple, mushroom, onion and peppercorns |
-| `/assets/img/focus-airway-clarity.webp` | Pulmo Balance bottle with Mullein Extract and Bromelain Powder illustrations |
-| `/assets/img/focus-seasonal-comfort.webp` | Pulmo Balance bottle with Stinging Nettle Extract and Quercetin Dihydrate illustrations |
-| `/assets/img/focus-antioxidant-defense.webp` | Pulmo Balance bottle with Maritime Pine Bark and Quercetin Dihydrate illustrations |
-| `/assets/img/focus-respiratory-resilience.webp` | Pulmo Balance bottle with Tiger Milk Mushroom and BioPerine® illustrations |
+| `/assets/img/pulmo-balance-bottle-with-ingredients.webp` | Pulmo Balance bottle on a stone coaster beside a houseplant and capsules |
+| `/assets/img/focus-airway-clarity.webp` | Pulmo Balance bottle photo for the Airway Clarity & Mucus Balance focus area |
+| `/assets/img/focus-seasonal-comfort.webp` | Pulmo Balance bottle photo for the Seasonal & Nasal Comfort focus area |
+| `/assets/img/focus-antioxidant-defense.webp` | Pulmo Balance bottle photo for the Antioxidant Defense & Circulation focus area |
+| `/assets/img/focus-respiratory-resilience.webp` | Pulmo Balance bottle photo for the Long-Term Respiratory Resilience focus area |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
 | `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
@@ -249,7 +256,7 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/focus-respiratory-resilience.webp` | Pulmo Balance bottle with Tiger Milk Mushroom and BioPerine® illustrations |
+| `/assets/img/focus-respiratory-resilience.webp` | Pulmo Balance bottle photo for the Long-Term Respiratory Resilience focus area |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
@@ -261,7 +268,7 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/focus-seasonal-comfort.webp` | Pulmo Balance bottle with Stinging Nettle Extract and Quercetin Dihydrate illustrations |
+| `/assets/img/focus-seasonal-comfort.webp` | Pulmo Balance bottle photo for the Seasonal & Nasal Comfort focus area |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
@@ -276,7 +283,7 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | `/assets/img/pulmo-balance-bottle-green-wellness-scene.webp` | Pulmo Balance bottle on a stone coaster beside green leaves and two capsules |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
-| `/assets/img/pulmo-balance-studio-bottle.webp` | Pulmo Balance bottle on a podium in soft green studio light |
+| `/assets/img/pulmo-balance-studio-bottle.webp` | Close-up of a Pulmo Balance bottle with leaves and capsules |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack covered by the 90-day money-back guarantee |
 | `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
@@ -291,30 +298,31 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | Image | Final alt text |
 |---|---|
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules dietary supplement |
-| `/assets/img/pulmo-balance-bottle-with-ingredients.webp` | Pulmo Balance bottle on a podium surrounded by mullein, pineapple, pine cone, nettle, mushroom, onion and peppercorn illustrations |
+| `/assets/img/pulmo-balance-bottle-with-ingredients.webp` | Pulmo Balance bottle on a stone coaster with green leaves, a houseplant and two capsules |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
-| `/assets/img/focus-airway-clarity.webp` | Pulmo Balance bottle with Mullein Extract and Bromelain Powder illustrations |
-| `/assets/img/focus-seasonal-comfort.webp` | Pulmo Balance bottle with Stinging Nettle Extract and Quercetin Dihydrate illustrations |
-| `/assets/img/focus-antioxidant-defense.webp` | Pulmo Balance bottle with Maritime Pine Bark and Quercetin Dihydrate illustrations |
-| `/assets/img/focus-respiratory-resilience.webp` | Pulmo Balance bottle with Tiger Milk Mushroom and BioPerine® illustrations |
+| `/assets/img/focus-airway-clarity.webp` | Pulmo Balance bottle photo for the Airway Clarity & Mucus Balance focus area |
+| `/assets/img/focus-seasonal-comfort.webp` | Pulmo Balance bottle photo for the Seasonal & Nasal Comfort focus area |
+| `/assets/img/focus-antioxidant-defense.webp` | Pulmo Balance bottle photo for the Antioxidant Defense & Circulation focus area |
+| `/assets/img/focus-respiratory-resilience.webp` | Pulmo Balance bottle photo for the Long-Term Respiratory Resilience focus area |
 | `/assets/img/pulmo-balance-bottle-green-wellness-scene.webp` | Pulmo Balance bottle on a stone coaster with green leaves and white capsules |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
 | `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle pack with bonus guides |
 | `/assets/img/pulmo-balance-2-bottles-pack.webp` | Pulmo Balance 2-bottle pack |
-| `/assets/img/pulmo-balance-studio-bottle.webp` | Pulmo Balance bottle on a podium under soft green studio lighting |
-| `/assets/img/pulmo-balance-buyer-checklist.webp` | Pulmo Balance bottle beside a checklist card |
+| `/assets/img/pulmo-balance-studio-bottle.webp` | Close-up of the Pulmo Balance Daily Lung Support bottle on a stone coaster |
+| `/assets/img/pulmo-balance-buyer-checklist.webp` | Two Pulmo Balance bottles with Daily Lung Support highlights and 60-capsule badge |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack covered by the 90-day money-back guarantee |
-| `/assets/img/blog-mullein-traditional-use.webp` | Illustrated mullein flower spike with yellow blossoms and soft leaves |
-| `/assets/img/blog-breathing-exercises.webp` | Line drawing of lungs over flowing blue air currents |
-| `/assets/img/blog-indoor-air-quality.webp` | Bright window with fresh air flowing past a green nettle plant |
-| `/assets/img/blog-seasonal-airway-comfort.webp` | Stinging nettle leaves and a red onion with floating pollen grains |
-| `/assets/img/blog-antioxidants-quercetin-pine-bark.webp` | Illustrated maritime pine cone on bark beside a red onion |
-| `/assets/img/blog-sleep-and-breathing.webp` | Night sky with a crescent moon over calm blue waves |
+| `/assets/img/blog-mullein-traditional-use.webp` | Pulmo Balance bottle on a stone coaster beside green leaves, for the mullein article |
+| `/assets/img/blog-breathing-exercises.webp` | Two Pulmo Balance Daily Lung Support bottles on a podium with green leaves |
+| `/assets/img/blog-indoor-air-quality.webp` | Pulmo Balance bottle in a bright room with houseplants and fresh light |
+| `/assets/img/blog-seasonal-airway-comfort.webp` | Pulmo Balance bottle on a marble counter in soft seasonal daylight |
+| `/assets/img/blog-antioxidants-quercetin-pine-bark.webp` | Pulmo Balance bottle with green leaves and capsules on a stone coaster |
+| `/assets/img/blog-sleep-and-breathing.webp` | Pulmo Balance bottle in calm green evening light beside a potted plant |
 | `/assets/img/pulmo-balance-3-bottles.webp` | Three Pulmo Balance bottles, the 90-day supply |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
 | `https://lymphtoneic.com/assets/img/lymph-tonic-bottle.webp` | Lymph Tonic product image |
 | `https://liivarix.vercel.app/assets/img/livarix-bottle.webp` | Livarix product image |
 | `https://en-gutsave.vercel.app/img/gut-save-bottle.webp` | Gut Save product image |
@@ -360,7 +368,7 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-bottle-with-ingredients.webp` | Pulmo Balance bottle surrounded by illustrations of its seven ingredients |
+| `/assets/img/pulmo-balance-bottle-with-ingredients.webp` | Pulmo Balance bottle on a stone coaster in a green wellness setting |
 | `/assets/img/pulmo-balance-two-bottles-lung-support-banner.webp` | Two Pulmo Balance bottles with Daily Lung Support label and key formula highlights |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
@@ -368,6 +376,7 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle pack with bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
 | `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
 | `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
@@ -376,7 +385,7 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-studio-bottle.webp` | Pulmo Balance bottle in green studio light |
+| `/assets/img/pulmo-balance-studio-bottle.webp` | Pulmo Balance bottle on a stone coaster with green leaves and capsules |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
 | `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
@@ -403,7 +412,7 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-buyer-checklist.webp` | Pulmo Balance bottle beside a buyer checklist card |
+| `/assets/img/pulmo-balance-buyer-checklist.webp` | Two Pulmo Balance bottles with label highlights, 60 capsules, dietary supplement |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-3-bottles.webp` | Three Pulmo Balance bottles, the 90-day supply |
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
