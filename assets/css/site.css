@@ -371,3 +371,20 @@ tr:last-child td{border-bottom:0}
 @media (max-width:900px){.hero-grid>div:last-child{order:-1}.hero .stage{max-width:340px}}
 .prod-grid{grid-template-columns:repeat(auto-fit,minmax(230px,265px));justify-content:center}
 @media (max-width:640px){.prod-grid{grid-template-columns:1fr}}
+/* bottle placements */
+.hero-bottle{margin:0 auto 18px;width:max-content}
+.hero-bottle img{height:220px;width:auto;filter:drop-shadow(0 22px 24px rgba(15,61,36,.28));animation:bob 6s ease-in-out infinite}
+.with-bottle{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:48px;align-items:start}
+.bottle-aside{position:sticky;top:100px;display:grid;place-items:center;padding:30px 20px;border-radius:28px;background:radial-gradient(closest-side,#ffffff,#e3f2e7 70%,rgba(227,242,231,0))}
+.bottle-aside img{max-height:340px;width:auto;filter:drop-shadow(0 24px 24px rgba(15,61,36,.28));animation:bob 7s ease-in-out infinite}
+.head-bottle{display:flex;justify-content:center;margin-bottom:14px}
+.head-bottle img{height:150px;width:auto;filter:drop-shadow(0 16px 18px rgba(15,61,36,.25));animation:floaty 8s ease-in-out infinite}
+.bg-dark .bottle-aside{background:radial-gradient(closest-side,rgba(255,255,255,.12),rgba(255,255,255,0))}
+@media (max-width:900px){.with-bottle{grid-template-columns:1fr;gap:24px}.bottle-aside{position:static;order:-1}.bottle-aside img{max-height:240px}.hero-bottle img{height:170px}.head-bottle img{height:120px}}
+.guarantee{grid-template-columns:300px 1fr}
+.g-visual{display:grid;justify-items:center;gap:10px}
+.g-visual img{width:260px;height:auto;margin-top:-30px;filter:drop-shadow(0 18px 20px rgba(15,61,36,.25))}
+@media (max-width:900px){.guarantee{grid-template-columns:1fr}.g-visual img{width:220px}}
+@media (max-width:480px){.nav{gap:8px}.nav .btn{padding:10px 14px;font-size:.9rem}.menu-btn{width:42px;height:42px;flex:none}.brand{font-size:1.12rem;gap:8px}.brand-mark{width:32px;height:32px}}
+@media (max-width:380px){.nav .btn{padding:9px 12px;font-size:.85rem}.brand{font-size:1.05rem}}
+@media (max-width:340px){.nav .btn{padding:8px 10px;font-size:.8rem}.brand{font-size:.98rem;gap:6px}.brand-mark{width:28px;height:28px}.menu-btn{width:38px;height:38px}.container{width:calc(100% - 28px)}}

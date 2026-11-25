@@ -7,8 +7,8 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 ## Summary
 
 - Pages audited: 29
-- Total `<img>` elements checked: 214
-- Images with descriptive alt text: 214
+- Total `<img>` elements checked: 273
+- Images with descriptive alt text: 273
 - Decorative images with `alt=""`: 0
 - Missing / generic alt found on final scan: 0
 - Images corrected during audit: 27 (sticky-bar thumbnail, one per page)
@@ -22,33 +22,41 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 
 | Image | Final alt text |
 |---|---|
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
 
 ## /affiliate-disclosure.html
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /alternatives.html
 
 | Image | Final alt text |
 |---|---|
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /benefits.html
 
 | Image | Final alt text |
 |---|---|
 | `/assets/img/pulmo-balance-two-bottles-lung-support-banner.webp` | Two Pulmo Balance bottles with Daily Lung Support highlights |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
 | `/assets/img/pulmo-balance-studio-bottle.webp` | Pulmo Balance bottle under green studio lighting with nettle and pine illustrations |
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /blog/breathing-exercises-daily-routine.html
 
@@ -62,13 +70,14 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | `https://the-quantum-wave-original.com/assets/images/the-quantum-wave-original.jpg` | The Quantum Wave product image |
 | `https://neuralreviven.com/assets/img/neural-revive-tablet-phone.webp` | Neural Revive product image |
 | `https://en-dentabiome.vercel.app/images/dentabiome-bottle.webp` | DentaBiome product image |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /blog/
 
 | Image | Final alt text |
 |---|---|
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
 | `/assets/img/blog-mullein-traditional-use.webp` | Illustrated mullein flower spike with yellow blossoms and soft leaves |
 | `/assets/img/blog-breathing-exercises.webp` | Line drawing of lungs over flowing blue air currents |
 | `/assets/img/blog-indoor-air-quality.webp` | Bright window with fresh air flowing past a green nettle plant |
@@ -99,8 +108,8 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | `https://media.flexifunnels.io/sites/7455/1175331/images/box-400.webp` | ProfitMaps AI product image |
 | `https://referralnow.co/partners/assets/img/s17/mon-bundle.feb69d8b.png` | Referral Now product image |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /blog/indoor-air-quality-at-home.html
 
@@ -114,8 +123,8 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | `https://lymphtoneic.com/assets/img/lymph-tonic-bottle.webp` | Lymph Tonic product image |
 | `https://the-last-battery-original.com/assets/img/last-battery-complete-system.webp` | The Last Battery product image |
 | `https://liivarix.vercel.app/assets/img/livarix-bottle.webp` | Livarix product image |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /blog/mullein-traditional-use-and-research.html
 
@@ -129,8 +138,8 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | `https://lymphtoneic.com/assets/img/lymph-tonic-bottle.webp` | Lymph Tonic product image |
 | `https://en-dentabiome.vercel.app/images/dentabiome-bottle.webp` | DentaBiome product image |
 | `https://en-gutsave.vercel.app/img/gut-save-bottle.webp` | Gut Save product image |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /blog/quercetin-and-pine-bark-antioxidants.html
 
@@ -144,8 +153,8 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | `https://liivarix.vercel.app/assets/img/livarix-bottle.webp` | Livarix product image |
 | `https://en-colestzen.vercel.app/img/colestzen-bottle.webp` | ColestZen product image |
 | `https://okinawantonic.com/assets/img/okinawa-flat-belly-tonic-jar.webp` | Okinawa Flat Belly Tonic product image |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /blog/seasonal-changes-airway-comfort.html
 
@@ -159,8 +168,8 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | `https://lymphtoneic.com/assets/img/lymph-tonic-bottle.webp` | Lymph Tonic product image |
 | `https://en-gutsave.vercel.app/img/gut-save-bottle.webp` | Gut Save product image |
 | `https://okinawantonic.com/assets/img/okinawa-flat-belly-tonic-jar.webp` | Okinawa Flat Belly Tonic product image |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /blog/sleep-and-breathing-habits.html
 
@@ -174,43 +183,53 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | `https://neuralreviven.com/assets/img/neural-revive-tablet-phone.webp` | Neural Revive product image |
 | `https://pinealgguardianx.com/img/pineal-guardian-x-bottle.webp` | Pineal Guardian X product image |
 | `https://shiftingvibration.org/assets/img/shifting-vibrations-audio-package.webp` | Shifting Vibrations product image |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /disclaimer.html
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /faq.html
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /focus-areas/airway-clarity.html
 
 | Image | Final alt text |
 |---|---|
 | `/assets/img/focus-airway-clarity.webp` | Pulmo Balance bottle with Mullein Extract and Bromelain Powder illustrations |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /focus-areas/antioxidant-defense.html
 
 | Image | Final alt text |
 |---|---|
 | `/assets/img/focus-antioxidant-defense.webp` | Pulmo Balance bottle with Maritime Pine Bark and Quercetin Dihydrate illustrations |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /focus-areas/
 
@@ -221,40 +240,51 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 | `/assets/img/focus-seasonal-comfort.webp` | Pulmo Balance bottle with Stinging Nettle Extract and Quercetin Dihydrate illustrations |
 | `/assets/img/focus-antioxidant-defense.webp` | Pulmo Balance bottle with Maritime Pine Bark and Quercetin Dihydrate illustrations |
 | `/assets/img/focus-respiratory-resilience.webp` | Pulmo Balance bottle with Tiger Milk Mushroom and BioPerine® illustrations |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /focus-areas/respiratory-resilience.html
 
 | Image | Final alt text |
 |---|---|
 | `/assets/img/focus-respiratory-resilience.webp` | Pulmo Balance bottle with Tiger Milk Mushroom and BioPerine® illustrations |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /focus-areas/seasonal-comfort.html
 
 | Image | Final alt text |
 |---|---|
 | `/assets/img/focus-seasonal-comfort.webp` | Pulmo Balance bottle with Stinging Nettle Extract and Quercetin Dihydrate illustrations |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /how-it-works.html
 
 | Image | Final alt text |
 |---|---|
 | `/assets/img/pulmo-balance-bottle-green-wellness-scene.webp` | Pulmo Balance bottle on a stone coaster beside green leaves and two capsules |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
 | `/assets/img/pulmo-balance-studio-bottle.webp` | Pulmo Balance bottle on a podium in soft green studio light |
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack covered by the 90-day money-back guarantee |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /
 
@@ -262,54 +292,69 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 |---|---|
 | `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules dietary supplement |
 | `/assets/img/pulmo-balance-bottle-with-ingredients.webp` | Pulmo Balance bottle on a podium surrounded by mullein, pineapple, pine cone, nettle, mushroom, onion and peppercorn illustrations |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
 | `/assets/img/focus-airway-clarity.webp` | Pulmo Balance bottle with Mullein Extract and Bromelain Powder illustrations |
 | `/assets/img/focus-seasonal-comfort.webp` | Pulmo Balance bottle with Stinging Nettle Extract and Quercetin Dihydrate illustrations |
 | `/assets/img/focus-antioxidant-defense.webp` | Pulmo Balance bottle with Maritime Pine Bark and Quercetin Dihydrate illustrations |
 | `/assets/img/focus-respiratory-resilience.webp` | Pulmo Balance bottle with Tiger Milk Mushroom and BioPerine® illustrations |
 | `/assets/img/pulmo-balance-bottle-green-wellness-scene.webp` | Pulmo Balance bottle on a stone coaster with green leaves and white capsules |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle pack with bonus guides |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | Pulmo Balance 2-bottle pack |
 | `/assets/img/pulmo-balance-studio-bottle.webp` | Pulmo Balance bottle on a podium under soft green studio lighting |
 | `/assets/img/pulmo-balance-buyer-checklist.webp` | Pulmo Balance bottle beside a checklist card |
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack covered by the 90-day money-back guarantee |
 | `/assets/img/blog-mullein-traditional-use.webp` | Illustrated mullein flower spike with yellow blossoms and soft leaves |
 | `/assets/img/blog-breathing-exercises.webp` | Line drawing of lungs over flowing blue air currents |
 | `/assets/img/blog-indoor-air-quality.webp` | Bright window with fresh air flowing past a green nettle plant |
 | `/assets/img/blog-seasonal-airway-comfort.webp` | Stinging nettle leaves and a red onion with floating pollen grains |
 | `/assets/img/blog-antioxidants-quercetin-pine-bark.webp` | Illustrated maritime pine cone on bark beside a red onion |
 | `/assets/img/blog-sleep-and-breathing.webp` | Night sky with a crescent moon over calm blue waves |
+| `/assets/img/pulmo-balance-3-bottles.webp` | Three Pulmo Balance bottles, the 90-day supply |
 | `https://lymphtoneic.com/assets/img/lymph-tonic-bottle.webp` | Lymph Tonic product image |
 | `https://liivarix.vercel.app/assets/img/livarix-bottle.webp` | Livarix product image |
 | `https://en-gutsave.vercel.app/img/gut-save-bottle.webp` | Gut Save product image |
 | `https://en-dentabiome.vercel.app/images/dentabiome-bottle.webp` | DentaBiome product image |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /order.html
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
 
 ## /price.html
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack covered by the 90-day money-back guarantee |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /privacy-policy.html
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /product-overview.html
 
@@ -317,62 +362,76 @@ Method: every built HTML file was parsed and every `<img>` element inspected (no
 |---|---|
 | `/assets/img/pulmo-balance-bottle-with-ingredients.webp` | Pulmo Balance bottle surrounded by illustrations of its seven ingredients |
 | `/assets/img/pulmo-balance-two-bottles-lung-support-banner.webp` | Two Pulmo Balance bottles with Daily Lung Support label and key formula highlights |
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Pulmo Balance 3-bottle pack with bonus guides |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /product-review.html
 
 | Image | Final alt text |
 |---|---|
 | `/assets/img/pulmo-balance-studio-bottle.webp` | Pulmo Balance bottle in green studio light |
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /pros-and-cons.html
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /reviews.html
 
 | Image | Final alt text |
 |---|---|
 | `/assets/img/pulmo-balance-buyer-checklist.webp` | Pulmo Balance bottle beside a buyer checklist card |
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-3-bottles.webp` | Three Pulmo Balance bottles, the 90-day supply |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance bottle with Daily Lung Support label |
+| `/assets/img/pulmo-balance-2-bottles.webp` | Two Pulmo Balance bottles, the 60-day supply |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /terms.html
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle, 60 capsules |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
 
 ## /where-to-buy.html
 
 | Image | Final alt text |
 |---|---|
-| `/assets/img/pulmo-balance-3-bottles.webp` | Three bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-2-bottles.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-3-bottles.webp` | 3 bottles of Pulmo Balance Daily Lung Support |
-| `/assets/img/pulmo-balance-6-bottles.webp` | 6 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | Three bottles of Pulmo Balance with two digital bonus guides |
+| `/assets/img/pulmo-balance-bottle.webp` | Pulmo Balance Daily Lung Support bottle |
+| `/assets/img/pulmo-balance-2-bottles-pack.webp` | 2 bottles of Pulmo Balance Daily Lung Support |
+| `/assets/img/pulmo-balance-3-bottles-pack.webp` | 3 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | 6 bottles of Pulmo Balance Daily Lung Support with the two digital bonus guides |
 | `/assets/img/pulmo-balance-6-bottles.webp` | Six-bottle Pulmo Balance package, a 180-day supply |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Six bottles of Pulmo Balance Daily Lung Support, the 180-day Best Value package |
-| `/assets/img/pulmo-balance-6-bottles.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Six bottles of Pulmo Balance with The 7-Day Lung Reset Protocol and breathing blueprint bonus guides |
+| `/assets/img/pulmo-balance-6-bottles-pack.webp` | Pulmo Balance 6-bottle Best Value package thumbnail |
